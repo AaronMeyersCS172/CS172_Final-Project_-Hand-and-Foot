@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\aaron c meyers\desktop\cs172_final-project_hand-and-foot\cs172_final-project_hand-and-foot\main.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aaron c meyers\desktop\cs172_final-project_hand-and-foot\cs172_final-project_hand-and-foot\main.cpp(1255): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron c meyers\desktop\cs172_final-project_hand-and-foot\cs172_final-project_hand-and-foot\main.cpp(1273): warning C4018: '<': signed/unsigned mismatch
+  CS172_Final-Project_Hand-and-Foot.vcxproj -> C:\Users\Aaron C Meyers\Desktop\CS172_Final-Project_Hand-and-Foot\Debug\CS172_Final-Project_Hand-and-Foot.exe

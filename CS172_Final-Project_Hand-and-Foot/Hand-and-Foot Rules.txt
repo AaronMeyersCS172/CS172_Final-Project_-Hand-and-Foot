@@ -1,0 +1,12 @@
+The Meyers Family Rules for Playing Hand-and-Foot:###
+CODING FRIENDLY VERSION:###
+The game starts with out with combining two decks of cards for every player in the game (2 players = 4 or more decks of cards used) to form the deck from which each player will draw 2 cards from when it is their turn. At the start of each round, each player will take 22 cards from the top of the main deck and make two separate piles of 11 cards each. One pile is the Hand, which the player will use first, and the other pile is the Foot, which the player can use only once they have discarded all of the cards in their hand.###
+The cards values are as follows:### 
+Aces = 20 points each###
+Twos through Sevens = 5 points each###
+Eights through Kings = 10 points each###
+For each of the four rounds, there is a point threshold (60 points) that each player will have to match or exceed in order to “go down” (which means putting down cards from their hand). When a player has obtained three cards of the same kind (ex: 3 Kings), then that player will have the option of putting them down.##
+Each player, at the start of their turn, will either draw two cards from the top of the main deck or can draw five cards from the discard pile. (Players can only draw from the discard pile if they have two of the same kind of the card that is on the top of the discard pile in their hand (ex: having two sixes in your hand while a six is at the top of the discard pile) AND they are able to put cards or have already put down cards. Players also cannot draw from the discard pile if there is less than 5 cards in the pile).###
+The goal of the game is to make books: which are piles of cards that have 7 of the same kind of card (ex: 7 Aces = 1 book).###
+In order to end the round, one player will have to get 3 books and discard all of the cards in their FOOT. Players cannot discard all of the cards from their foot if they have NOT collected the books required.###
+At the end of each round, the book values are tallied to an overall player score and when the fourth round ends, the player who has the most points wins.###
