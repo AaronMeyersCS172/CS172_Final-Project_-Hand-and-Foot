@@ -4,6 +4,19 @@
 // CS172: Final Project: Hand-and-Foot
 //////////////////////////////////////////////
 
+//PT -- nice work overall. There is a lot of work here.
+// I'd like to see you break out main() into many smaller functions.
+// There is a fair amount of copy/paste for the different players,
+//  meaning that maintaining the code is much harder. If there were
+//  separate functions, you'd be able to call those functions for
+//  each player.
+//
+// Proposal: 10/10
+// Requirements: 25/25
+// Code: 68/70
+// Indv Summary: 30/30
+// Total: 133/135
+
 #include <iostream>
 #include <string>
 #include <ctime>
